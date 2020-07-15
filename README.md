@@ -1,3 +1,3 @@
 # willstestrepo
 
-I deleted all of my Windows Creds.
+I changed my user.email to my personal, github account linked, email.
