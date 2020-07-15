@@ -1,3 +1,3 @@
 # willstestrepo
 
-my email does not make sense now.
+This repo is used for testing things.
